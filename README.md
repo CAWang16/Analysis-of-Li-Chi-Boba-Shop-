@@ -6,10 +6,10 @@ This project will provide the Li-Chi Boba Shop with business advice by analyzing
 [Google Drive Folder](https://drive.google.com/drive/folders/1U4CG7Rvez408hjvZt5un_c721OJlXB1S?usp=sharing)
 
 ### Files and Descriptions (English)
-- **A Drink Shop Raw Data (Google Sheet):** Data pulled from SQL.
-- **Anders_Drink Shop Strategy Analysis Notes (Google Docs):** Strategies outlined before starting the analysis.
-- **Anders_Drink Shop Data Analysis (Google Sheet):** Comprehensive chart analysis created using Pivot Tables and Charts.
-- **Anders_A Drink Shop Business Analysis (Google Slide):** Analysis results shared through presentation slides.
+- **Li-Chi Boba Shop Raw Data (Google Sheet):** Data pulled from SQL.
+- **Anders_Li-Chi Boba Shop Strategic Analysis (Google Docs):** Strategies outlined before starting the analysis.
+- **Anders_Li-Chi Boba Shop Data Analysis (Google Sheet):** Comprehensive chart analysis created using Pivot Tables and Charts.
+- **Anders_Li-Chi Boba Shop Business Analysis (Google Slide):** Analysis results shared through presentation slides.
 
 ---
 
